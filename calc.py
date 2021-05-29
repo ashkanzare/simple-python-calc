@@ -20,3 +20,4 @@ def calculator(x, y, operator):
             raise DivisionByZeroError
     else:
         raise InvalidOperatorException
+
